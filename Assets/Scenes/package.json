@@ -1,0 +1,11 @@
+{
+"name": "com.ohrizon.dependency",
+"displayName": "dependency",
+"description": "Experiment",
+"version": "1.0.0",
+"unity": "2019.1",
+"license": "MIT",
+"dependencies": {
+"com.ohrizon.amodule":"https://github.com/LaurentRobidoux/AModule.git#1.0.3"
+ }
+}
